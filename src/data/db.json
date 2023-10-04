@@ -1,0 +1,52 @@
+{
+  "memberRegister": [
+    {
+      "user": "sho",
+      "pass": "admin",
+      "authority": "admin",
+      "class": [],
+      "classHistory": [],
+      "id": 1
+    },
+    {
+      "user": "user2",
+      "pass": "12",
+      "authority": "member",
+      "class": [],
+      "classHistory": [],
+      "id": 2
+    },
+    {
+      "user": "user3",
+      "pass": "123",
+      "authority": "member",
+      "class": [],
+      "classHistory": [],
+      "id": 3
+    },
+    {
+      "user": "user4",
+      "pass": "123123",
+      "authority": "member",
+      "class": [],
+      "classHistory": [],
+      "id": 4
+    },
+    {
+      "user": "user5",
+      "pass": "123123",
+      "authority": "member",
+      "class": [],
+      "classHistory": [],
+      "id": 5
+    },
+    {
+      "user": "user6",
+      "pass": "123",
+      "authority": "member",
+      "class": [],
+      "classHistory": [],
+      "id": 6
+    }
+  ]
+}

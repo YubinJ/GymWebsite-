@@ -1,0 +1,27 @@
+{
+  "class": [
+    {
+      "className": "キックボクシング",
+      "Time": "火、木 20:00~21:00",
+      "Instructor": "先生A",
+      "PICURL": "https://martial-art-concepts.com/wp-content/uploads/2019/11/Kickboxing-bag.jpg",
+      "id": 1
+    },
+
+    {
+      "className": "ブラジリアン柔術",
+      "Time": "火、木 21:00~22:00",
+      "Instructor": "先生B",
+      "PICURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/GABRIEL_VELLA_vs_ROMINHO_51.jpg/1200px-GABRIEL_VELLA_vs_ROMINHO_51.jpg",
+      "id": 2
+    },
+
+    {
+      "className": "総合格闘技",
+      "Time": "水 20:30~22:00",
+      "Instructor": "先生M",
+      "PICURL": "https://zebraathletics.com/wp-content/uploads/2018/11/ZC-CAGESS_SHOWCASE_CAGE-PRODUCT1-scaled.jpg",
+      "id": 3
+    }
+  ]
+}
